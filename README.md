@@ -1,5 +1,9 @@
 # Custom Wiki
 
+Preview the wiki [here](http://htmlpreview.github.io/?https://github.com/FlorianWanders/tiddlywiki/blob/master/tiddlywiki.html). 
+
+---
+
 I use [Mendeley](https://www.mendeley.com) to manage my citations. One limitation of this (and to my knowledge any other) reference manager is that you cannot link between papers. For that reason I wrote summaries in LaTeX in which I included hyperlinks to articles (e.g., if they would complement or contradict each other). This approach worked well in the beginning but did not scale well. At not even 100 summaries compiling took over a minute. Another solution was required... and here comes [TiddlyWiki](https://tiddlywiki.com/)!
 
 
