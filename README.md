@@ -21,7 +21,7 @@ For readers who prefer some more information: In my wiki you will find 9 tabs:
 
 - `Publications`: here go all your summaries of/notes on articles. Click through the examples and on the pen icon (`Edit this tiddler`) to see how you should enter publications, or any other entries for that matter. Mark papers as important (star), unread (closed envelope), etc. 
 
--- I include FontAwesome to ease reading. E.g., a cog marks a hypothesis, a wrench highlights a method, and a test tube indicates a result. 
+	- I include FontAwesome to ease reading. E.g., a cog marks a hypothesis, a wrench highlights a method, and a test tube indicates a result. 
 
 - `Definitions`: Different groups of researchers will employ different definitions. Keep them in one place under this tab. 
 
