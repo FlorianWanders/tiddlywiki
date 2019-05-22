@@ -4,7 +4,11 @@ Preview the wiki [here](http://htmlpreview.github.io/?https://github.com/Florian
 
 ---
 
-I use [Mendeley](https://www.mendeley.com) to manage my citations. One limitation of this (and to my knowledge any other) reference manager is that you cannot link between papers. For that reason I wrote summaries in LaTeX in which I included hyperlinks to articles (e.g., if they would complement or contradict each other). This approach worked well in the beginning but did not scale well. At not even 100 summaries compiling took over a minute. Another solution was required... and here comes [TiddlyWiki](https://tiddlywiki.com/)!
+Update: I now use the amazing reference manager <a href="https://www.zotero.org/" target="_blank" title="Zotero">Zotero<a/> which fulfills all the needs listed below. I leave the code here because it was a fun project.
+
+---
+
+<span style="text-decoration:line-through">I use [Mendeley](https://www.mendeley.com) to manage my citations. One limitation of this (and to my knowledge any other) reference manager is that you cannot link between papers. <span> For that reason I wrote summaries in LaTeX in which I included hyperlinks to articles (e.g., if they would complement or contradict each other). This approach worked well in the beginning but did not scale well. At not even 100 summaries compiling took over a minute. Another solution was required... and here comes [TiddlyWiki](https://tiddlywiki.com/)!
 
 
 [TiddlyWiki](https://tiddlywiki.com/) is a "unique non-linear notebook for capturing, organising and sharing complex information." It's general plus points are, among others: 
